@@ -1,2 +1,1 @@
-# docker-graal
-Docker image for GraalVM CE
+# `docker-graal` - Docker image for GraalVM CE
